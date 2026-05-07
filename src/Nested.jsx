@@ -34,6 +34,11 @@ export default function Nested() {
           desc="Built fully in React. API integration, search system, navigation between pages."
         />
         <ProjectCard
+          href="https://6-month-exam-liard.vercel.app/"
+          title="Website"
+          desc="React application with smooth page navigation, responsive design, dynamic tabs, and interactive hover effects using Tailwind CSS and React Router."
+        />
+        <ProjectCard
           href="https://10-lesson-homework.netlify.app/"
           title="Website"
           desc="Design project created using Tailwind CSS."
